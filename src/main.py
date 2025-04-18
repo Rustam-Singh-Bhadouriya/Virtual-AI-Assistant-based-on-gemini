@@ -85,4 +85,4 @@ while True:
             speak_response(response_text)
 
 
-speak_response("Bye Have a Nice Day")
+speak_response("Bye Have a Nice Day") # End point of program
