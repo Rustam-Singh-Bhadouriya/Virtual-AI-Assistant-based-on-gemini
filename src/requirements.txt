@@ -1,0 +1,11 @@
+speech_recognition
+pyttsx3
+pyaudio
+base64
+os
+google
+google.genrativeai
+gtts
+threading
+langdetect
+webbrowser
