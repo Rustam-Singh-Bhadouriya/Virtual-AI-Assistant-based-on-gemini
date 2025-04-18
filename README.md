@@ -2,4 +2,4 @@
 This is gemini based Virtual assistant
 
 <hr>
-## Features of this program (AI virtual assistante named Gemi)
+# Features of this program (AI virtual assistante named Gemi)
